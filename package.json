@@ -1,0 +1,32 @@
+{
+  "name": "gen-html",
+  "version": "0.0.1",
+  "description": "html skeleton generator cli dev-tool thing ",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghostsnstuff/gen-html.git"
+  },
+  "keywords": [
+    "html",
+    "skeleton",
+    "generator",
+    "cli",
+    "index.html",
+    "dev",
+    "tool"
+  ],
+  "author": "ghostsnstuff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghostsnstuff/gen-html/issues"
+  },
+  "homepage": "https://github.com/ghostsnstuff/gen-html",
+  "dependencies": {
+    "minimist": "^0.2.0"
+  }
+}
